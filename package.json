@@ -1,0 +1,11 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "koa": "^2.0.0",
+    "node-flags": "^0.1.9",
+    "node-wit": "^3.2.2",
+    "rethinkdb": "^2.3.1"
+  }
+}

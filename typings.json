@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": false,
+  "dependencies": {
+    "rethinkdb": "registry:dt/rethinkdb#1.10.0+20160316155526"
+  },
+  "ambientDependencies": {
+    "node": "registry:dt/node#4.0.0+20160509154515"
+  }
+}
